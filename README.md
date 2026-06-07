@@ -7,3 +7,4 @@ TensorFlow and Keras to provide real-time sentiment analysis and confidence
 scores for user-inputted text.
 Technologies: Python, TensorFlow, Keras, NumPy, Matplotlib, Google Colab GPU
 (Tesla T4).
+author : vivek belwal
